@@ -1,0 +1,17 @@
+# Reference templates
+reference-crane-insurance/
+reference-*/
+
+# Build artifacts
+node_modules/
+dist/
+.astro/
+.DS_Store
+.env
+.env.local
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
